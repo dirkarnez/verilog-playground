@@ -15,3 +15,4 @@ verilog-playground
 
 ### Tutorials
 - [**HDLBits**](https://hdlbits.01xz.net/wiki/Main_Page)
+- [**SinaKarvandi/FPGA: My VHDL and FPGA things**](https://github.com/SinaKarvandi/FPGA)
